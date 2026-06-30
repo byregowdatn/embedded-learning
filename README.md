@@ -1,6 +1,5 @@
 # Embedded Learning
-
-This repository contains my embedded systems learning journey.
+This repository documents my journey in learning Embedded Systems. It contains hands-on experiments, practice programs, notes, and mini projects using Arduino, STM32, ESP32, and Embedded C.
 
 ## Topics
 - Embedded C
