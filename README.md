@@ -7,7 +7,7 @@ This project demonstrates the basic LED blinking program using an Arduino Uno. I
 - Learn Arduino programming basics.
 - Understand digital output pins.
 - Control an LED using Arduino.
-- 
+ 
 ## Components Required
 - Arduino Uno
 - LED
